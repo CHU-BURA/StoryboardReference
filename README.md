@@ -2,7 +2,12 @@
 Storyboard Referenceを学習するために、既存サンプルアプリにStoryboard Referenceを取り入れる工程を学習するためのリポジトリです。
 
 ## 詳細
-[【Xcode】Storyboard Referenceを活用してみた](https://qiita.com/_CHUBURA/items/03a3cddf8fe17361c5b2)を参考までに 
+[【Xcode】Storyboard Referenceを活用してみた](https://qiita.com/_CHUBURA/items/03a3cddf8fe17361c5b2)を参考までに
+
+## 環境
+- MacOS
+- Xcode9
+- Swift4 
 
 ## 対象者
 - Storyboard Referenceを理解したい方
@@ -10,15 +15,10 @@ Storyboard Referenceを学習するために、既存サンプルアプリにSto
 
 ## 構成
 - [BeforeApp](/BeforeApp)  
-簡単なUITabBarControllerを用いた５つのタブメニューを設けたサンプルアプリ  
+簡単なUITabBarControllerを用いた５つのタブメニューを設けたサンプルアプリ<img src="storyboard_reference_before_app_view.png" width="500">
 
 - [AfterApp](/AfterApp)  
-上記BeforeAppに対してStoryboard Referenceを適用したサンプルアプリ
-
-## 環境
-- MacOS
-- Xcode9
-- Swift4
+上記BeforeAppに対してStoryboard Referenceを適用したサンプルアプリ<img src="storyboard_reference_after_app_view.png" width="500">
 
 ## 利用手順
 1. 本リポジトリをcloneする。
