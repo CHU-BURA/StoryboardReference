@@ -1,5 +1,5 @@
 # Storyboard Referenceを活用する
-実際にStoryboard Referenceを利用し、その理解を深める・学習するためのリポジトリ。
+実際にStoryboard Referenceを利用し、その理解を深める・学習するためのリポジトリ。  
 こちらでは、既存のサンプルアプリに対してStoryboard Referenceを取り入れる工程を掲載しています。
 
 ## 詳細
